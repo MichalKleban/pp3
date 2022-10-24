@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Book
+comment1.params=
+comment1.target=void\ info()
+comment2.params=
+comment2.target=void\ price()
+comment3.params=
+comment3.target=void\ dostpenosc()
+comment4.params=
+comment4.target=void\ wypozycz()
+comment5.params=
+comment5.target=void\ dlugosc()
+numComments=6

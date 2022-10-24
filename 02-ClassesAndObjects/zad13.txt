@@ -1,0 +1,7 @@
+a)smartphone
+attributes: marka, model, rok_produkcji, cena, oprogramowanie
+beaviors: wlacz(), wylacz(), wyslij_wiadomosc(), odbierz_polaczenie(), pobierz_aplikacje()
+
+)bank account
+attributes: numer_konta, dostepne_srodki, miesieczne_wydatki, hisoria, pozyczki
+beaviors: zrob_przelew(), udoseptnij_numer_konta(), zablokuj_konto(), zmien_limity__na_karcie(), wez_pozyczke()
